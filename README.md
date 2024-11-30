@@ -22,6 +22,10 @@ ___negrito e itálico___
 - lista 1
 - lista 2
     - sublista
+
+1. lista 1
+2. lista 2
+    1. sublista
 <!---
 
 Cabeçalhos MarDown
@@ -36,6 +40,16 @@ Cabeçalhos MarDown
 *itálico* ou _itálico_
 **negrito** ou __negrito__
 ___negrito e itálico___
+
+UL
+
+- lista 1
+- lista 2
+    - sublista
+
+OL
+
+
 
 georgebarreira/georgebarreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
