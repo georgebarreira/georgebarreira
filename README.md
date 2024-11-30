@@ -15,7 +15,13 @@ Some Front-End Projects:
 #### Título 4
 ##### Título 5
 ###### Título 6
+*itálico* ou _itálico_
+**negrito** ou __negrito__
+___negrito e itálico___
 
+- lista 1
+- lista 2
+    - sublista
 <!---
 
 Cabeçalhos MarDown
@@ -27,6 +33,9 @@ Cabeçalhos MarDown
 ##### Título 5
 ###### Título 6
 
+*itálico* ou _itálico_
+**negrito** ou __negrito__
+___negrito e itálico___
 
 georgebarreira/georgebarreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
