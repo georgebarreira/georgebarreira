@@ -16,7 +16,9 @@ Some Front-End Projects:
 ##### Título 5
 ###### Título 6
 *itálico* ou _itálico_
+
 **negrito** ou __negrito__
+
 ___negrito e itálico___
 
 - lista 1
@@ -26,6 +28,16 @@ ___negrito e itálico___
 1. lista 1
 2. lista 2
     1. sublista
+    2. sublista2
+
+
+imagem com link
+
+[texto da imagem](https://catracalivre.com.br/wp-content/uploads/2021/08/por-do-sol-rio-mais-bonito-do-mundo.jpg)
+
+imagem aparente
+
+![texto da imagem](https://catracalivre.com.br/wp-content/uploads/2021/08/por-do-sol-rio-mais-bonito-do-mundo.jpg)
 <!---
 
 Cabeçalhos MarDown
