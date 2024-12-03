@@ -31,6 +31,12 @@
 -------------
 
 
+<img loading="lazzy" height="180em" src="https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical">
+
+
+<img loading="lazzy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebarreira&layout=compact&theme=dracula">
+
+
 
 ![George Barreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical)
 
