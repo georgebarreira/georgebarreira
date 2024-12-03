@@ -8,7 +8,7 @@
 🤜🤛 I’m looking to collaborate on life changing projects. <br><br>
 📧 [How to reach me:](https://www.linkedin.com/in/george-de-castro-barreira-22633351/) <br><br>
 
-#### Some skills:
+#### My skills:
 
  <img style="width:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img style="width:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> <img style="width:35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
