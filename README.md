@@ -33,7 +33,7 @@
 
 Some Front-End Projects:
 
-![Car battery Sales](https://georgebarreira.github.io/2v4/)
+[Car battery Sales](https://georgebarreira.github.io/2v4/)
 
 
 -------------
