@@ -30,6 +30,11 @@
 
 -------------
 
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebarreira)](https://github.com/georgebarreira/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical" />
+</div>
+
 ![George Barreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgebarreira)](https://github.com/georgebarreira/github-readme-stats)
