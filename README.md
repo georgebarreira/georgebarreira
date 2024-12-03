@@ -14,10 +14,10 @@
 -----------
 <br>
 #### My skills:
-
- <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<p align="center">
+ <img style="width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img style="width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> <img style="width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <img style="width:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
  
- 
+ </p>
 
 
 | Cursos | Certificados |
@@ -36,7 +36,7 @@ Some Front-End Projects:
 
 -------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical)
+![George Barreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical)
 
 <!---
 
