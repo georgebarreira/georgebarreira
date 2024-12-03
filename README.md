@@ -1,5 +1,5 @@
 ### :vulcan_salute: Welcome to my world!
-<br><br>
+<br>
 
 
 ![Programming](https://media.tenor.com/KbXIBwtIzoYAAAAM/piano-bruce-almighty.gif)
@@ -33,7 +33,9 @@ Some Front-End Projects:
 1. https://georgebarreira.github.io/2v4/
 
 
+-------------
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!---
 
