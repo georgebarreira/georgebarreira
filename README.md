@@ -1,4 +1,4 @@
-### Bem vindo ao meu mundo! :hand:
+### :hand: Bem vindo ao meu mundo! 
 
 - 👋 Hi, I’m @georgebarreira
 - 👀 I’m interested in front-end development and surf.
