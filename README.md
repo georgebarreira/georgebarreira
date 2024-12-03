@@ -1,5 +1,6 @@
 ### :vulcan_salute: Welcome to my world!
 
+
 ![Programming](https://media.tenor.com/KbXIBwtIzoYAAAAM/piano-bruce-almighty.gif)
 
 👋 Hi, I’m George Barreira <br><br>
@@ -8,10 +9,21 @@
 🤜🤛 I’m looking to collaborate on life changing projects. <br><br>
 📧 [How to reach me:](https://www.linkedin.com/in/george-de-castro-barreira-22633351/) <br><br>
 
+-----------
+
 #### My skills:
 
  <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-          
+ 
+ -------------------
+
+
+| Cursos | Certificados |
+|--------|--------------|
+|Git e Github|[Cerfificado]()|
+
+--------------------
+
 
 Some Front-End Projects:
 
