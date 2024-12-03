@@ -1,12 +1,12 @@
-### :hand: Welcome to my world!
+### :vulcan_salute: Welcome to my world!
 
 ![Programming](https://media.tenor.com/KbXIBwtIzoYAAAAM/piano-bruce-almighty.gif)
 
-- 👋 Hi, I’m George Barreira
-- 👀 I’m interested in front-end development and surf.
-- 🌱 I’m currently learning Git and Github platforms.
-- 💞️ I’m looking to collaborate on life changing projects.
-- 📫 How to reach me: [:email:](mailto:georgecbarreira@hotmail.com) 
+👋 Hi, I’m George Barreira <br>
+🏄‍♂️ I’m interested in front-end development and surf. <br>
+🧠 I’m currently learning Git and Github platforms. <br>
+🤜🤛 I’m looking to collaborate on life changing projects. <br>
+[:email: How to reach me:](mailto:georgecbarreira@hotmail.com) 
 
 #### Some skills:
 
