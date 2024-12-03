@@ -6,7 +6,7 @@
 🏄‍♂️ I’m interested in front-end development and surf. <br>
 🧠 I’m currently learning Git and Github platforms. <br>
 🤜🤛 I’m looking to collaborate on life changing projects. <br>
-[:email: How to reach me:](mailto:georgecbarreira@hotmail.com) 
+📧 [How to reach me:](https://www.linkedin.com/in/george-de-castro-barreira-22633351/) 
 
 #### Some skills:
 
