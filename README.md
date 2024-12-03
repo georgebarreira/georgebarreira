@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align="center">
 
 ### :vulcan_salute: Welcome to my world!
 <br>
