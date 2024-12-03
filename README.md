@@ -2,7 +2,7 @@
 
 
 ![Programming](https://media.tenor.com/KbXIBwtIzoYAAAAM/piano-bruce-almighty.gif)
-<br>
+<br><br>
 
 👋 Hi, I’m George Barreira <br><br>
 🏄‍♂️ I’m interested in front-end development and surf. <br><br>
