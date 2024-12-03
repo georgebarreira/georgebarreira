@@ -1,3 +1,5 @@
+### Bem vindo ao meu mundo! :hand:
+
 - 👋 Hi, I’m @georgebarreira
 - 👀 I’m interested in front-end development and surf.
 - 🌱 I’m currently learning JavaScript.
