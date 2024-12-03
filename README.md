@@ -2,11 +2,11 @@
 
 ![Programming](https://media.tenor.com/KbXIBwtIzoYAAAAM/piano-bruce-almighty.gif)
 
-👋 Hi, I’m George Barreira <br>
-🏄‍♂️ I’m interested in front-end development and surf. <br>
-🧠 I’m currently learning Git and Github platforms. <br>
-🤜🤛 I’m looking to collaborate on life changing projects. <br>
-📧 [How to reach me:](https://www.linkedin.com/in/george-de-castro-barreira-22633351/) 
+👋 Hi, I’m George Barreira <br><br>
+🏄‍♂️ I’m interested in front-end development and surf. <br><br>
+🧠 I’m currently learning Git and Github platforms. <br><br>
+🤜🤛 I’m looking to collaborate on life changing projects. <br><br>
+📧 [How to reach me:](https://www.linkedin.com/in/george-de-castro-barreira-22633351/) <br><br>
 
 #### Some skills:
 
