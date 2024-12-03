@@ -1,5 +1,7 @@
 ### :hand: Bem vindo ao meu mundo! 
 
+!(Programming)[https://media.tenor.com/KbXIBwtIzoYAAAAM/piano-bruce-almighty.gif]
+
 - 👋 Hi, I’m @georgebarreira
 - 👀 I’m interested in front-end development and surf.
 - 🌱 I’m currently learning JavaScript.
