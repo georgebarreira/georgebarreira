@@ -26,7 +26,7 @@
 
 | Cursos | Certificados |
 |--------|--------------|
-|Git e Github|[Cerfificado]()|
+| Git e Github | [Cerfificado]() |
 
 <br>
 
