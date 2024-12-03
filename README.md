@@ -1,12 +1,12 @@
-### :hand: Bem vindo ao meu mundo! 
+### :hand: Welcome to my world!
 
 ![Programming](https://media.tenor.com/KbXIBwtIzoYAAAAM/piano-bruce-almighty.gif)
 
-- 👋 Hi, I’m @georgebarreira
+- 👋 Hi, I’m George Barreira
 - 👀 I’m interested in front-end development and surf.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Git and Github platforms.
 - 💞️ I’m looking to collaborate on life changing projects.
-- 📫 How to reach me: 
+- 📫 How to reach me: [:email:](georgecbarreira@hotmail.com) 
 
 #### Some skills:
 
