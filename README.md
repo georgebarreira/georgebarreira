@@ -28,6 +28,10 @@
 
 <br>
 
+-------------
+
+![George Barreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical)
+
 --------------------
 
 
@@ -36,9 +40,6 @@ Some Front-End Projects:
 [Car battery Sales](https://georgebarreira.github.io/2v4/)
 
 
--------------
-
-![George Barreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical)
 
 <!---
 
