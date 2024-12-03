@@ -6,6 +6,9 @@
 - 💞️ I’m looking to collaborate on life changing projects.
 - 📫 How to reach me: 
 
+#### Some skills:
+
+![JavaScript](https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png)
 
 Some Front-End Projects:
 
