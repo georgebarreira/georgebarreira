@@ -10,7 +10,7 @@
 
 #### Some skills:
 
-![Javascript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+<img style="width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
 Some Front-End Projects:
 
