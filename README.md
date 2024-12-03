@@ -25,6 +25,7 @@
 |Git e Github|[Cerfificado]()|
 
 <br>
+
 --------------------
 
 
@@ -35,7 +36,7 @@ Some Front-End Projects:
 
 -------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical)
 
 <!---
 
