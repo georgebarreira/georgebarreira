@@ -31,16 +31,13 @@
 -------------
 
 
+<img loading="lazzy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebarreira&layout=compact&langs_count=7&theme=dracula">
+
 <img loading="lazzy" height="100em" src="https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical">
 
 
-<img loading="lazzy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebarreira&layout=compact&langs_count=7&theme=dracula">
 
 
-
-![George Barreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebarreira&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgebarreira&layout=compact&theme=dracula)](https://github.com/georgebarreira/github-readme-stats)
 --------------------
 
 
