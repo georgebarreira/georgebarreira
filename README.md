@@ -23,10 +23,16 @@
  
  </p>
 
+#### Tools:
+
+<p align="center">
+ <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
+ 
+ </p>
 
 | Cursos | Certificados |
 |--------|--------------|
-| Git e Github | [Cerfificado]() |
+| Git e Github | [Cerfificado](https://assets.dio.me/XyQP24LjqcWgujV-xJALJYCJ-qc2VZWjmN9fQsMcUMk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aNlJQVFZZVC5qcGc) |
 
 <br>
 
