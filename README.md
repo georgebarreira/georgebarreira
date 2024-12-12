@@ -26,8 +26,8 @@
 #### Tools:
 
 <p align="center">
- <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
- 
+ <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> 
+ <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> 
  </p>
 
 | Cursos | Certificados |
