@@ -32,7 +32,10 @@
 
 | Cursos | Certificados |
 |--------|--------------|
-| Git e Github | [Cerfificado](https://assets.dio.me/XyQP24LjqcWgujV-xJALJYCJ-qc2VZWjmN9fQsMcUMk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aNlJQVFZZVC5qcGc) |
+| Github | [Cerfificado](https://assets.dio.me/XyQP24LjqcWgujV-xJALJYCJ-qc2VZWjmN9fQsMcUMk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aNlJQVFZZVC5qcGc) |
+| Git    | [Cerfificado](https://www.dio.me/certificate/UTAHC07H/share) |
+
+
 
 <br>
 
