@@ -1,6 +1,6 @@
 <div align="center">
 
-### :vulcan_salute: Welcome to my world!
+### 🖖 Welcome to my Github!
 <br>
 
 
@@ -9,7 +9,7 @@
 
 👋 Hi, I’m George Barreira <br><br>
 🏄‍♂️ I’m interested in front-end development and surf. <br><br>
-🧠 I’m currently learning Git and Github platforms. <br><br>
+🧠 I’m currently learning React. <br><br>
 🤜🤛 I’m looking to collaborate on life changing projects. <br><br>
 📧 [How to reach me:](https://www.linkedin.com/in/george-de-castro-barreira-22633351/) <br><br>
 
