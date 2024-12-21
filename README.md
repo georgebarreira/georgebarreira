@@ -8,6 +8,7 @@
 <br><br>
 
 👋 Hi, I’m George Barreira <br><br>
+📚 Studying Computer Systems Technology at Universidade Federal Fluminense (UFF) <br><br>
 🏄‍♂️ I’m interested in front-end development and surf. <br><br>
 🧠 I’m currently learning React. <br><br>
 🤜🤛 I’m looking to collaborate on life changing projects. <br><br>
@@ -30,10 +31,16 @@
  <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> 
  </p>
 
-| Cursos | Certificados |
-|--------|--------------|
-| Github | [Cerfificado](https://assets.dio.me/XyQP24LjqcWgujV-xJALJYCJ-qc2VZWjmN9fQsMcUMk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aNlJQVFZZVC5qcGc) |
-| Git    | [Cerfificado](https://www.dio.me/certificate/UTAHC07H/share) |
+| Courses |  Dedicated Hours |
+|---------|-----------------|
+| [Github](https://assets.dio.me/XyQP24LjqcWgujV-xJALJYCJ-qc2VZWjmN9fQsMcUMk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aNlJQVFZZVC5qcGc) | 10 hours |
+| [Git](https://www.dio.me/certificate/UTAHC07H/share) | 6 Hours |
+| [HTML]() | X Hours |
+| [CSS]() | X Hours |
+| [JS]() | X Hours |
+| [React]() | X Hours |
+
+
 
 
 
