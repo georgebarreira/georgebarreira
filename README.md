@@ -31,14 +31,14 @@
  <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> 
  </p>
 
-| Courses |  Dedicated Hours |
-|---------|-----------------|
-| [Github](https://assets.dio.me/XyQP24LjqcWgujV-xJALJYCJ-qc2VZWjmN9fQsMcUMk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aNlJQVFZZVC5qcGc) | 10 hours |
-| [Git](https://www.dio.me/certificate/UTAHC07H/share) | 6 Hours |
-| [HTML]() | X Hours |
-| [CSS]() | X Hours |
-| [JS]() | X Hours |
-| [React]() | X Hours |
+#### Certificates:
+
+| Courses |  Dedicated Hours |Courses |  Dedicated Hours |
+|---------|------------------|---------|-----------------|
+| [Github](https://assets.dio.me/XyQP24LjqcWgujV-xJALJYCJ-qc2VZWjmN9fQsMcUMk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aNlJQVFZZVC5qcGc) | 10 hours | [Git](https://www.dio.me/certificate/UTAHC07H/share) | 6 Hours |
+| [HTML]() | X Hours | [CSS]() | X Hours |
+| [JS]() | X Hours | [React]() | X Hours |
+
 
 
 
