@@ -3,10 +3,6 @@
 ### 🖖 Welcome to my Github!
 <br>
 
-
-![Programming](https://media.tenor.com/KbXIBwtIzoYAAAAM/piano-bruce-almighty.gif)
-<br><br>
-
 👋 Hi, I’m George Barreira <br><br>
 📚 Studying Computer Systems Technology at Universidade Federal Fluminense (UFF) <br><br>
 🏄‍♂️ I’m interested in front-end development and surf. <br><br>
