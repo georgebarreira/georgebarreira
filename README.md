@@ -57,9 +57,11 @@
 
 Some Front-End Projects:
 
+[React Calculator](https://georgebarreira.github.io/Desafio01-Calculadora/)
+
+
 [Car battery Sales](https://georgebarreira.github.io/2v4/)
 
-[React Calculator](https://georgebarreira.github.io/Desafio01-Calculadora/)
 
 
 
