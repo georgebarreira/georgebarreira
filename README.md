@@ -57,6 +57,10 @@
 
 Some Front-End Projects:
 
+
+[GitFind](https://georgebarreira.github.io/primeira_aplicacao_react_GitFind/)
+
+
 [React Calculator](https://georgebarreira.github.io/Desafio01-Calculadora/)
 
 
