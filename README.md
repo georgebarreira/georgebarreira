@@ -58,13 +58,13 @@
 Some Front-End Projects:
 
 
-[Github Wiki](https://georgebarreira.github.io/desafio02-github-wiki/)
+[Github Wiki - React](https://georgebarreira.github.io/desafio02-github-wiki/)
 
 
-[GitFind](https://georgebarreira.github.io/primeira_aplicacao_react_GitFind/)
+[GitFind - React](https://georgebarreira.github.io/primeira_aplicacao_react_GitFind/)
 
 
-[React Calculator](https://georgebarreira.github.io/Desafio01-Calculadora/)
+[Calculator - React](https://georgebarreira.github.io/Desafio01-Calculadora/)
 
 
 [Car battery Sales](https://georgebarreira.github.io/2v4/)
