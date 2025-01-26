@@ -58,6 +58,9 @@
 Some Front-End Projects:
 
 
+[Github Wiki](https://georgebarreira.github.io/desafio02-github-wiki/)
+
+
 [GitFind](https://georgebarreira.github.io/primeira_aplicacao_react_GitFind/)
 
 
