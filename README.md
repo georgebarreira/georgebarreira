@@ -33,7 +33,7 @@
 |---------|------------------|---------|-----------------|
 | [Github](https://assets.dio.me/XyQP24LjqcWgujV-xJALJYCJ-qc2VZWjmN9fQsMcUMk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9aNlJQVFZZVC5qcGc) | 10 hours | [Git](https://www.dio.me/certificate/UTAHC07H/share) | 6 Hours |
 | [HTML]() | X Hours | [CSS]() | X Hours |
-| [JS]() | X Hours | [React]() | X Hours |
+| [JS]() | X Hours | [React](https://www.dio.me/certificate/AX0N3IBW/share) | 34 Hours |
 
 
 
