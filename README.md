@@ -17,6 +17,8 @@
 
 <p align="center">
  <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <img style="width:70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+ <img style="width:70px" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" />
+ 
  
  </p>
 
